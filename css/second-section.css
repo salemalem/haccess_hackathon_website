@@ -9,3 +9,8 @@
 .collapse {
     background-color: lawngreen;
 }
+
+footer {
+    margin-top: 1%;
+    border-top: solid black;
+}
